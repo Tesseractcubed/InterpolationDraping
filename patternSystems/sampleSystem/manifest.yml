@@ -1,0 +1,25 @@
+fileStructureVersion: "1.0.0"
+details:
+- name: The Blue Book of Men's Tailoring -- Grand Edition of Supreme System
+- shortName: Supreme Blue Book
+- yearPublished: 1907
+- author: Frederick T. Croonborg
+- description: A 1907
+- source: https://ia803409.us.archive.org/17/items/grandeditionofsu00croo/grandeditionofsu00croo.pdf
+system:
+  measurements:
+  - Length
+  - Width of back
+  - Breast
+  - Waist
+  - Seat
+  - Sleeve length
+  - Height
+  - Weight
+  figures:
+    ideal:
+    corpulent:
+    stout:
+    slim:
+  patterns:
+    basePattern: #Filename
