@@ -38,3 +38,4 @@ Construction Lines -- Lines drawn based on measurements that do not
     often directly translate to the pattern, but provide useful 
     relative points for the pattern draft.
 
+Additional documentation can be found in the documentation folder.
