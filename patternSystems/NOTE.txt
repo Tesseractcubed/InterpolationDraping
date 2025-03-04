@@ -1,0 +1,1 @@
+We're ignoring this whole area for now. In the future, we can work on local file storage, or a DB type storage solution.

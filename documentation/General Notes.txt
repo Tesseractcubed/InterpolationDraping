@@ -1,0 +1,15 @@
+This is a general notes page.
+It's plaintext because, while I like html enough, I don't like it that much for changing info.
+
+
+Table of Contents:
+Overall Project Plan
+Specifics
+Misc.
+
+Overall Project Plan
+	The overall project is divided into three large steps.
+Step 1: Get the bridge working - Enable code to write valid inkscape SVG 1.1 data into a special set of Arch paper file templates, specifically from Excel Documents with a special format.
+Step 2: Enable Python to do the lifting; instead of Excel, the drafting system is programmed into python and executed there.
+Step 3: Allow a cross dog-pile of excel and python to be used, in any order. The eventual addon to this is a GUI, or maybe a port to C++ for better cross platform development.
+Step 4: Global server like OpenTTD Bananas, or similar public forum for transferring patterns / data.
