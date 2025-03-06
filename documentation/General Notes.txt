@@ -13,3 +13,5 @@ Step 1: Get the bridge working - Enable code to write valid inkscape SVG 1.1 dat
 Step 2: Enable Python to do the lifting; instead of Excel, the drafting system is programmed into python and executed there.
 Step 3: Allow a cross dog-pile of excel and python to be used, in any order. The eventual addon to this is a GUI, or maybe a port to C++ for better cross platform development.
 Step 4: Global server like OpenTTD Bananas, or similar public forum for transferring patterns / data.
+
+I'll be working off of the Supreme System Blue Book right now, because it is available online; it does have quirks that make it less than appealing to code.
