@@ -38,4 +38,28 @@ Construction Lines -- Lines drawn based on measurements that do not
     often directly translate to the pattern, but provide useful 
     relative points for the pattern draft.
 
+Software to be used:
+Microsoft Excel -- The versatility and wide knowledge base of Excel 
+    means that many people can learn the specialty formulas used in this
+    project. Some specialty excel functions / tricks are used in this project.
+    Excel will house the pattern book specific math, and the user 
+    interface for selecting which pattern to load.
+Python -- This will be the hidden part of the code, mainly being a bridge
+    between the Excel document and Inkscape tool. The main goals of the 
+    python side of the project will be a) transferring the data over
+    to visualization tools (inkscape, previews in Excel), and not having
+    to be directly interacted with for most people using the program.
+    Modules being considered --
+        py2exe -- packaging into executable
+        pyinstaller -- packaging into executable
+        openpyxl -- Excel visualization
+        xlwings -- Excel visualization
+        matplotlib -- Excel visualization
+        pandas -- Interacting with Excel
+        custom python -- Get it to talk with inkscape
+Inkscape -- Inkscape enables a user to then edit the pattern output, 
+    and for the initial versions allow the user to connect curves.
+    Inkscape has been chosen, despite quirks, for being relatively
+    straightforward to use.
+
 Additional documentation can be found in the documentation folder.
