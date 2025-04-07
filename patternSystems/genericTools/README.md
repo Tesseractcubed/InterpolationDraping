@@ -1,0 +1,2 @@
+This Generic tools section consists of calculators (excel sheets, python, etc.) that are useful for working with books 
+that have not been turned into more advanced forms. You can enter in different fractions, and see what happens.
