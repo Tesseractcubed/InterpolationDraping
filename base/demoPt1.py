@@ -1,3 +1,8 @@
+"""This is a demo, meant to translate one excel file's data onto an already built SVG program. This type of demo is not what I really want to do (I'd rather build a better program), but suffices when I can't focus on a single project.
+Goals: Take excel file (already adjusted by user) from folder, take in that information, and edit the svg file in order to adjust that information.
+
+"""
+
 import pandas
 import subprocess
 
